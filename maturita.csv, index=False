@@ -1,0 +1,45 @@
+,cisloStudenta,predmet,znamka,den,mistnost
+0,1,Chemie,,pá,u202
+1,2,Dějepis,3.0,pá,u202
+2,3,Matematika,2.0,út,u202
+3,2,Společenské vědy,2.0,pá,u202
+4,4,Biologie,1.0,pá,u202
+5,5,Dějepis,1.0,po,u202
+6,6,Fyzika,2.0,čt,u202
+7,7,Dějepis,4.0,po,u202
+8,8,Matematika,2.0,po,u202
+9,9,Dějepis,,pá,u202
+10,10,Chemie,2.0,st,u202
+11,3,Chemie,5.0,út,u202
+12,11,Matematika,1.0,st,u202
+13,12,Biologie,4.0,st,u202
+14,10,Dějepis,5.0,st,u202
+15,5,Společenské vědy,3.0,po,u203
+16,13,Matematika,5.0,po,u203
+17,7,Informatika,3.0,po,u203
+18,12,Fyzika,3.0,st,u203
+19,14,Fyzika,3.0,st,u203
+20,15,Chemie,3.0,pá,u203
+21,16,Informatika,2.0,út,u203
+22,8,Zeměpis,1.0,po,u203
+23,17,Fyzika,4.0,po,u203
+24,15,Společenské vědy,3.0,pá,u203
+25,19,Informatika,,po,u203
+26,20,Fyzika,2.0,čt,u203
+27,9,Společenské vědy,,pá,u203
+28,21,Biologie,4.0,st,u203
+29,22,Zeměpis,3.0,út,u203
+30,23,Informatika,1.0,po,u302
+31,23,Společenské vědy,1.0,po,u302
+32,6,Matematika,5.0,čt,u302
+33,4,Informatika,1.0,pá,u302
+34,16,Biologie,2.0,út,u302
+35,20,Matematika,1.0,čt,u302
+36,21,Informatika,4.0,st,u302
+37,11,Chemie,5.0,st,u302
+38,14,Dějepis,3.0,st,u302
+39,19,Společenské vědy,,po,u302
+40,13,Chemie,4.0,po,u302
+41,22,Informatika,3.0,út,u302
+42,1,Zeměpis,,pá,u302
+43,17,Matematika,3.0,po,u302
